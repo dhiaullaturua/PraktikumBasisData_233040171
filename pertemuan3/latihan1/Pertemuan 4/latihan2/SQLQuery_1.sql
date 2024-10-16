@@ -1,1 +1,0 @@
-SELECT * FROM mahasiswa, dpp_mahasiswa,jadwal_mata_kuliah;
